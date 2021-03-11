@@ -1,1 +1,1 @@
-Software engineer with a lean towards front-end work. I have been working with development solutions web-based to help the companies to improve your processes or to reduce time strategically. I love to build amazing products for the web.
+Software engineer with a lean towards front-end work. I have been working with development solutions web-based to help the companies to improve their processes or to reduce time strategically. I love to build amazing products for the web.
