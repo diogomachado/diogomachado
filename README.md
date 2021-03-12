@@ -1,3 +1,5 @@
+
+
 Software engineer with a lean towards front-end work. I have been working with development solutions web-based to help the companies to improve their processes or to reduce time strategically. I love to build amazing products for the web.
 
 #### My work
@@ -13,7 +15,15 @@ Software engineer with a lean towards front-end work. I have been working with d
 
 #### Experiments
 - [Spotify Random](https://spotifyrandom.netlify.app/): A web-app that to suggest for the user logged on Spotify new musics to listen
+- [Credit Card React](https://codesandbox.io/s/recursing-benz-0z0yk)
+- [Cup Water](https://codesandbox.io/s/cup-water-0p3sl)
+- [Smartphone with CSS](https://codepen.io/diogosm/pen/GRZJbrK)
+- [Loading study](https://codepen.io/diogosm/pen/GRRbxog)
+- [3D Loading](https://codepen.io/diogosm/full/JjPVzJB)
+- [Material concept](https://codepen.io/diogosm/pen/Zdjvpm)
 
 #### Social Network
 - [Twitter](https://twitter.com/tec_diogo)
 - [Instagram](https://www.instagram.com/diogom)
+- [Dribbble](https://dribbble.com/diogomachado)
+- [YouTube](https://www.youtube.com/channel/UCTEhragxLUbpB7sot4uvZlg)
