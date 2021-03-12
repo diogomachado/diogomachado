@@ -12,7 +12,7 @@ Software engineer with a lean towards front-end work. I have been working with d
 - Isaac Delormi Personal Trainner (iOS|Android|Article)
 
 #### Experiments
-- (Spotify Random)[https://spotifyrandom.netlify.app/]: A web-app that to suggest for the user logged on Spotify new musics to listen
+- [Spotify Random](https://spotifyrandom.netlify.app/): A web-app that to suggest for the user logged on Spotify new musics to listen
 
 #### Social Network
 - [Twitter](https://twitter.com/tec_diogo)
