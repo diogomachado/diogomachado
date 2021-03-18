@@ -22,7 +22,7 @@ Software engineer with a lean towards front-end work. I have been working with d
 - [3D Loading](https://codepen.io/diogosm/full/JjPVzJB)
 - [Material concept](https://codepen.io/diogosm/pen/Zdjvpm)
 
-#### My last article
+#### My most recent article
 - [Review book: Designing for touch by Josh Clark](http://dev.diogomachado.com/review-book-designing-for-touch-by-josh-clark/)
 
 #### Social Network
