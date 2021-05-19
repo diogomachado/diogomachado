@@ -9,9 +9,9 @@ Software engineer with a lean towards front-end work. I have been working with d
 * 🎙 Author of the online course: [Adobe XD: Protótipos rápidos e poderosos 🇧🇷](https://www.udemy.com/course/curso-online-de-adobe-xd-prototipos/)
 
 #### Mobile apps in production
-- Dizimo Online (iOS|Android|[Article](http://dev.diogomachado.com/dizimo-online-app))
 - Revista Leia ([iOS](https://apps.apple.com/br/app/leia/id1526366657?l=en) | [Android](https://play.google.com/store/apps/details?id=com.revistaleia&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | [Article](http://dev.diogomachado.com/leia-magazine-app/))
 - Isaac Delormi Personal Trainner ([iOS](https://apps.apple.com/br/app/isaac-delormi/id1541465997)|[Android](https://play.google.com/store/apps/details?id=com.delormi)|[Article](http://dev.diogomachado.com/how-i-used-the-lottie-with-succed/))
+- Dizimo Online ([Article](http://dev.diogomachado.com/dizimo-online-app))
 
 #### Experiments
 - [Spotify Random](https://spotifyrandom.netlify.app/): A web-app that to suggest for the user logged on Spotify new musics to listen
@@ -23,6 +23,7 @@ Software engineer with a lean towards front-end work. I have been working with d
 - [Material concept](https://codepen.io/diogosm/pen/Zdjvpm)
 
 #### My most recent article
+- [Dealing with the frustration into IT sector](http://dev.diogomachado.com/dealing-with-the-frustration-into-it-sector/)
 - [How I used the Lottie with success on React Native](http://dev.diogomachado.com/how-i-used-the-lottie-with-succed/)
 - [Using mask on ion-input](http://dev.diogomachado.com/ionic-input-with-mask/)
 - [Review book: Designing for touch by Josh Clark](http://dev.diogomachado.com/review-book-designing-for-touch-by-josh-clark/)
