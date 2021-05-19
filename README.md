@@ -10,7 +10,7 @@ Software engineer with a lean towards front-end work. I have been working with d
 
 #### Mobile apps in production
 - Revista Leia ([iOS](https://apps.apple.com/br/app/leia/id1526366657?l=en) | [Android](https://play.google.com/store/apps/details?id=com.revistaleia&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | [Article](http://dev.diogomachado.com/leia-magazine-app/))
-- Isaac Delormi Personal Trainner ([iOS](https://apps.apple.com/br/app/isaac-delormi/id1541465997)|[Android](https://play.google.com/store/apps/details?id=com.delormi)|[Article](http://dev.diogomachado.com/how-i-used-the-lottie-with-succed/))
+- Isaac Delormi Personal Trainner ([iOS](https://apps.apple.com/br/app/isaac-delormi/id1541465997) | [Android](https://play.google.com/store/apps/details?id=com.delormi) | [Article](http://dev.diogomachado.com/how-i-used-the-lottie-with-succed/))
 - Dizimo Online ([Article](http://dev.diogomachado.com/dizimo-online-app))
 
 #### Experiments
