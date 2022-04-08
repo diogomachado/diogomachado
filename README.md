@@ -23,10 +23,7 @@ Software engineer with a lean towards front-end work. I have been working with d
 - [Material concept](https://codepen.io/diogosm/pen/Zdjvpm)
 
 #### My most recent article
-- [Dealing with the frustration into IT sector](http://dev.diogomachado.com/dealing-with-the-frustration-into-it-sector/)
-- [How I used the Lottie with success on React Native](http://dev.diogomachado.com/how-i-used-the-lottie-with-succed/)
-- [Using mask on ion-input](http://dev.diogomachado.com/ionic-input-with-mask/)
-- [Review book: Designing for touch by Josh Clark](http://dev.diogomachado.com/review-book-designing-for-touch-by-josh-clark/)
+- [http://dev.diogomachado.com/](http://dev.diogomachado.com/)
 
 #### Social Network
 - [Twitter](https://twitter.com/tec_diogo)
