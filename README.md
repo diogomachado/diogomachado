@@ -23,11 +23,11 @@ Software engineer with a lean towards front-end work. I have been working with d
 - [Material concept](https://codepen.io/diogosm/pen/Zdjvpm)
 
 #### Youtube tutorials
-– [Videos about CSS tips 🇧🇷](https://www.youtube.com/watch?v=xD8lIeWn73E&list=PLQXk-h5rEVAdW-3AKW5R41ZsKvfqyQoCT)
-– [Saving your changes locally using Git Stash command without commit 🇺🇸](https://www.youtube.com/watch?v=lxsp-YIkejQ)
-– [How to identify and begin test with Jest in your project Javascript (Angular) 🇺🇸](https://www.youtube.com/watch?v=ODPvrErT54o)
-– [Testing login with Jest on AngularFire using Stub and Mock 🇺🇸](https://www.youtube.com/watch?v=JXtSaIQT3Lw)
-– [Angular Framework Advanced – Using Dynamic Factory 🇺🇸](https://www.youtube.com/watch?v=eG3ERwQsdNs)
+- [Videos about CSS tips 🇧🇷](https://www.youtube.com/watch?v=xD8lIeWn73E&list=PLQXk-h5rEVAdW-3AKW5R41ZsKvfqyQoCT)
+- [Saving your changes locally using Git Stash command without commit 🇺🇸](https://www.youtube.com/watch?v=lxsp-YIkejQ)
+- [How to identify and begin test with Jest in your project Javascript (Angular) 🇺🇸](https://www.youtube.com/watch?v=ODPvrErT54o)
+- [Testing login with Jest on AngularFire using Stub and Mock 🇺🇸](https://www.youtube.com/watch?v=JXtSaIQT3Lw)
+- [Angular Framework Advanced – Using Dynamic Factory 🇺🇸](https://www.youtube.com/watch?v=eG3ERwQsdNs)
 
 #### My most recent article
 - [http://dev.diogomachado.com/](http://dev.diogomachado.com/)
