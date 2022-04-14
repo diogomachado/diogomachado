@@ -24,6 +24,7 @@ Software engineer with a lean towards front-end work. I have been working with d
 - [Loading study](https://codepen.io/diogosm/pen/GRRbxog)
 - [3D Loading](https://codepen.io/diogosm/full/JjPVzJB)
 - [Material concept](https://codepen.io/diogosm/pen/Zdjvpm)
+- [Threejs test with a model 3D](https://github.com/diogomachado/train-threejs)
 
 #### Youtube tutorials
 - [Videos about CSS tips 🇧🇷](https://www.youtube.com/watch?v=xD8lIeWn73E&list=PLQXk-h5rEVAdW-3AKW5R41ZsKvfqyQoCT)
