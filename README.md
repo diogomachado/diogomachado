@@ -2,11 +2,14 @@
 
 Software engineer with a lean towards front-end work. I have been working with development solutions web-based to help the companies to improve their processes or to reduce time strategically. I love to build amazing products for the web.
 
-#### My work
-* 📘 Author of the book: [Cordova e Phonegap Avançado 🇧🇷](https://www.casadocodigo.com.br/products/livro-cordova-avancado)
+#### My most recent article
+- [http://dev.diogomachado.com/](http://dev.diogomachado.com/)
+
+#### Personal projects
 * 🎙 Author of the online course: [Imersão CSS 🇧🇷](https://imersaocss.com/)
 * 🎙 Author of the online course: [Construa protótipos rápidos com Figma 🇧🇷](https://www.udemy.com/course/como-usar-software-figma-para-prototipos)
 * 🎙 Author of the online course: [Adobe XD: Protótipos rápidos e poderosos 🇧🇷](https://www.udemy.com/course/curso-online-de-adobe-xd-prototipos/)
+* 📘 Author of the book: [Cordova e Phonegap Avançado 🇧🇷](https://www.casadocodigo.com.br/products/livro-cordova-avancado)
 
 #### Mobile apps in production
 - Revista Leia ([iOS](https://apps.apple.com/br/app/leia/id1526366657?l=en) | [Android](https://play.google.com/store/apps/details?id=com.revistaleia&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | [Article](http://dev.diogomachado.com/leia-magazine-app/))
@@ -28,9 +31,6 @@ Software engineer with a lean towards front-end work. I have been working with d
 - [How to identify and begin test with Jest in your project Javascript (Angular) 🇺🇸](https://www.youtube.com/watch?v=ODPvrErT54o)
 - [Testing login with Jest on AngularFire using Stub and Mock 🇺🇸](https://www.youtube.com/watch?v=JXtSaIQT3Lw)
 - [Angular Framework Advanced – Using Dynamic Factory 🇺🇸](https://www.youtube.com/watch?v=eG3ERwQsdNs)
-
-#### My most recent article
-- [http://dev.diogomachado.com/](http://dev.diogomachado.com/)
 
 #### Social Network
 - [Twitter](https://twitter.com/tec_diogo)
