@@ -1,6 +1,6 @@
 
 
-Software engineer with a lean towards front-end work. I have been working with development solutions web-based to help the companies to improve their processes or to reduce time strategically. I love to build amazing products for the web.
+Software Developer with a lean towards front-end work. I have been working with development solutions web-based to help the companies worked for. I love to build amazing products from the scratch for the web.
 
 #### My most recent article
 - [http://dev.diogomachado.com/](http://dev.diogomachado.com/)
