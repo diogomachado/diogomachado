@@ -34,7 +34,12 @@ Software Developer with a lean towards front-end work. I have been working with 
 - [Testing login with Jest on AngularFire using Stub and Mock 🇺🇸](https://www.youtube.com/watch?v=JXtSaIQT3Lw)
 - [Angular Framework Advanced – Using Dynamic Factory 🇺🇸](https://www.youtube.com/watch?v=eG3ERwQsdNs)
 
+### Youtube Live (About CSS)
+- [Introduction to the main points of HTML 🇧🇷](https://youtu.be/3jNkY4cf9LI)
+- [CSS: Basic selectors and complex 🇧🇷](https://www.youtube.com/watch?v=2mByv1V0j7A)
+
 #### Social Network
+- [Site](http://diogomachado.com/)
 - [Twitter](https://twitter.com/tec_diogo)
 - [Instagram](https://www.instagram.com/diogom)
 - [Dribbble](https://dribbble.com/diogomachado)
