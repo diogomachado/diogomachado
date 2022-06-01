@@ -17,6 +17,7 @@ Software Developer with a lean towards front-end work. I have been working with 
 - Dizimo Online ([Article](http://dev.diogomachado.com/dizimo-online-app))
 
 #### Experiments
+- [Spotify Awesome Player](https://github.com/diogomachado/spotify-awesome-player)
 - [Spotify Random](https://spotifyrandom.netlify.app/): A web-app that to suggest for the user logged on Spotify new musics to listen
 - [Credit Card React](https://codesandbox.io/s/recursing-benz-0z0yk)
 - [Cup Water](https://codesandbox.io/s/cup-water-0p3sl)
