@@ -8,7 +8,6 @@ Software Developer with a lean towards front-end work. I have been working with 
 #### Personal projects
 * 🎙 Author of the online course: [Imersão CSS 🇧🇷](https://imersaocss.com/)
 * 🎙 Author of the online course: [Construa protótipos rápidos com Figma 🇧🇷](https://www.udemy.com/course/como-usar-software-figma-para-prototipos)
-* 🎙 Author of the online course: [Adobe XD: Protótipos rápidos e poderosos 🇧🇷](https://www.udemy.com/course/curso-online-de-adobe-xd-prototipos/)
 * 📘 Author of the book: [Cordova e Phonegap Avançado 🇧🇷](https://www.casadocodigo.com.br/products/livro-cordova-avancado)
 
 #### Mobile apps in production
