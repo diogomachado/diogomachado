@@ -9,7 +9,7 @@ Software Developer with a lean towards front-end work. I have been working with 
 * 🎙 Author of the online course: [Imersão CSS 🇧🇷](https://imersaocss.com/)
 * 🎙 Author of the online course: [Construa protótipos rápidos com Figma 🇧🇷](https://www.udemy.com/course/como-usar-software-figma-para-prototipos)
 * 📘 Author of the book: [Cordova e Phonegap Avançado 🇧🇷](https://www.casadocodigo.com.br/products/livro-cordova-avancado)
-* VSCode Extension: [https://marketplace.visualstudio.com/items?itemName=diogomachado.common-media-queries](Common Media Queries)
+* VSCode Extension: [Common Media Queries](https://marketplace.visualstudio.com/items?itemName=diogomachado.common-media-queries)
 
 #### Mobile apps in production
 - Revista Leia ([iOS](https://apps.apple.com/br/app/leia/id1526366657?l=en) | [Android](https://play.google.com/store/apps/details?id=com.revistaleia&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) | [Article](http://dev.diogomachado.com/leia-magazine-app/))
