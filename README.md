@@ -36,6 +36,4 @@ Software Developer with a lean towards front-end work. I have been working with 
 #### Social Network
 - [Site](http://diogomachado.com/)
 - [Twitter](https://twitter.com/tec_diogo)
-- [Instagram](https://www.instagram.com/diogom)
 - [Dribbble](https://dribbble.com/diogomachado)
-- [YouTube](https://www.youtube.com/channel/UCTEhragxLUbpB7sot4uvZlg)
