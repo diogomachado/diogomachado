@@ -28,11 +28,6 @@ Software Developer with a lean towards front-end work. I have been working with 
 - [Material concept](https://codepen.io/diogosm/pen/Zdjvpm)
 - [Threejs test with a model 3D](https://github.com/diogomachado/train-threejs)
 
-#### Youtube tutorials
-- [Saving your changes locally using Git Stash command without commit 🇺🇸](https://www.youtube.com/watch?v=lxsp-YIkejQ)
-- [How to identify and begin test with Jest in your project Javascript (Angular) 🇺🇸](https://www.youtube.com/watch?v=ODPvrErT54o)
-- [Testing login with Jest on AngularFire using Stub and Mock 🇺🇸](https://www.youtube.com/watch?v=JXtSaIQT3Lw)
-
 #### Social Network
 - [Site](http://diogomachado.com/)
 - [Twitter](https://twitter.com/tec_diogo)
