@@ -14,6 +14,7 @@ Front-end engineer with 12 years of experience building incredible products. I c
 - [Behance](https://www.behance.net/diogosm)
 
 #### Experiments
+- [Easy Water](https://easywater-gules.vercel.app/)
 - [Spotify Awesome Player](https://github.com/diogomachado/spotify-awesome-player)
 - [Spotify Random](https://spotifyrandom.netlify.app/): A web-app that to suggest for the user logged on Spotify new musics to listen
 - [Credit Card React](https://codesandbox.io/s/recursing-benz-0z0yk)
